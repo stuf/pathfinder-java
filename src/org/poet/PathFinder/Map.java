@@ -1,9 +1,5 @@
 package org.poet.PathFinder;
 
-/**
- * @author Stefan Rimaila <stefan.rimaila@gmail.com>
- * @version 0.0.2
- */
 public class Map {
   private Node[][] mapNodes;
   private int width;
